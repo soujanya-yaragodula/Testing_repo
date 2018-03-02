@@ -1,5 +1,5 @@
 puts("enter words to sort")
-words = []
+words = [ ]
 while true
   input = gets.chomp
   if input == ' '
